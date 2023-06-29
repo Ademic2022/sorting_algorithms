@@ -160,18 +160,10 @@ Function Prototype:
 
 ## Authors
 <details>
-    <summary>Suara Ayomide</summary>
+    <summary>Adeeyo Michael</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
-    </ul>
-</details>
-<details>
-    <summary>Mohamed Ibrahima Traore</summary>
-    <ul
-    <li><a href="https://www.github.com/codivily">Github</a></li>
-    <li><a href="https://www.twitter.com/codivily">Twitter</a></li>
-    <li><a href="mailto:codivily@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/ademic2022">Github</a></li>
+    <li><a href="https://www.twitter.com/ademic_code">Twitter</a></li>
+    <li><a href="mailto:adeeyomichael77@gmail.com">e-mail</a></li>
     </ul>
 </details>
